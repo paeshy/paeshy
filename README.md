@@ -2,7 +2,7 @@
 www.linkedin.com/in/
 patience-b-89a432ab
 
-I have a background workingas a Scrum Master but I have great interest in technology and I am interested to solving complex problems.
+I have a background working as a Scrum Master but I have great interest in technology and I am interested to solving complex problems.
 
 Objective
 
