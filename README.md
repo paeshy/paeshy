@@ -30,5 +30,6 @@ Comptia security+
     
 Projects
 Detection Lab https://github.com/paeshy/Detection-Lab/blob/main/README.md
+
 SOC Automation Project
 
